@@ -1,0 +1,2 @@
+rootProject.name = "Ch12SendDataToAnotherActivity"
+include ':app'
